@@ -1,0 +1,116 @@
+                                                                Q&A with Corrections 
+
+
+Q1: What changes are needed for Columbia Heights after its conversion to a condo?
+A1: Add one more list with four categories under the After Conversion as a Condo section.
+ Done
+
+Q2: What needs to be updated in the Arlington Oaks property information?
+A2: Remove the section Year Converted to Co-op and Year Converted to Condo from the property information.
+Done.
+
+Q3: What additions are required for Woodedge Condominium before and after conversion?
+A3:
+
+Before Conversion as a Co-op: Add one more list with four categories.
+After Conversion as a Condo: Add one more list with four categories.
+
+Done
+
+Q4: What changes are necessary for Mountain Club Condos property information?
+A4: Update the Year Converted to Co-op field to display Year Built instead.
+Done.
+
+Q5: What date adjustment is needed for Harbor Towers?
+A5: Change Year Converted to Condo to 2001.
+Done.
+
+Q6: What additions are needed for Bella Vista before and after conversion?
+A6:
+
+Before Conversion as a Co-op: Add one more list with four categories.
+After Conversion as a Condo: Add one more list with four categories.
+Done.
+
+Q7: How should Shoreview Estates property information be updated?
+A7: Replace the Year Converted to Co-op field with Year Built.
+Done.
+
+
+Q8: What changes are required for Pittsfield Village (The Village) property information?
+A8: Replace the Year Converted to Co-op field with Year Built.
+
+Done. 
+
+Q9: What correction is needed for Geddes Lake Condominiums property information?
+A9: Replace the Year Converted to Co-op field with Year Built.
+Done.
+
+Q10: What changes are necessary for Arlington Village property information?
+A10: Remove the section Year Converted to Co-op and Year Converted to Condo from the property information.
+Done.
+
+Q11: What needs to be done for Twin Pines property information?
+A11: Remove the section Year Converted to Co-op.
+Done.
+
+Q12: What updates are required for San Tomas Estates property information?
+A12: Replace the Year Converted to Co-op field with Year Built.
+Done.
+
+Q13: What correction is necessary for Royal Palms property information?
+A13: Remove the section Year Converted to Co-op.
+
+Done.
+
+Q14: How should Glenview Condominiums property information be updated?
+A14: Replace the Year Converted to Co-op field with Year Built.
+Done.
+
+Q15: What changes are required for Figueroa Arms property information?
+A15: Remove the section Year Converted to Co-op.
+
+Done.
+
+Q16: What update is necessary for 808 Laurel property information?
+A16: Remove the section Year Converted to Co-op.
+Done.
+
+Q17: How should the content for 109-18 Lefferts Condominium be aligned?
+A17: Ensure that the After Conversion as a Condo section is properly aligned and that the text fits within the designated box.
+
+Done.
+
+
+Inner Pages
+Co-op To Condo
+https://www.huttongroup.co/coop-to-condo-conversion/
+
+Why convert
+https://www.huttongroup.co/why-convert/
+
+The Process
+https://www.huttongroup.co/the-process/
+
+Cash free 
+https://www.huttongroup.co/why-convert/cash-free/
+
+Our Team 
+https://www.huttongroup.co/executive-team/
+
+The Hutton History
+https://www.huttongroup.co/history-of-hutton/
+
+in the new (Not Working on Client Site)
+
+Case Studies
+https://www.huttongroup.co/portfolio-item/
+
+About us
+https://www.huttongroup.co/about/
+
+FAQs
+https://www.huttongroup.co/faqs/
+
+
+All Client Site data has been uploaded.
